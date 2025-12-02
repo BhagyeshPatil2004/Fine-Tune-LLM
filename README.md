@@ -15,4 +15,4 @@ Quantization is a technique used to reduce the memory footprint and computationa
 
 ## Tools Used
 - **Unsloth**: A library used for faster and more memory-efficient fine-tuning.
-- **Base Model**: (Specify the base model if known, e.g., Llama-3, Mistral)
+- **Base Model**: (Specify the base model use Llama-3.1)
