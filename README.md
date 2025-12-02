@@ -1,6 +1,6 @@
 # Medicine Side Effects Prediction - Fine-Tuned LLM
 
-This project involves fine-tuning a Large Language Model (LLM) to predict side effects of medicines based on user queries.
+This project analyzes medicines and identifies their possible side effects and associated medical conditions. Using structured datasets, it tell us how likely a specific side effect is for each drug and maps symptoms to related conditions. The system helps users understand medicine risks, compare side-effect frequencies, and make safer health decisions.
 
 ## Project Overview
 The goal is to create a specialized model that can accurately identify and list potential side effects of various medications. This is achieved by training a base model on a specific dataset related to medical side effects.
